@@ -14,7 +14,3 @@ const button4  = document.querySelector('button[type="pedir"]');
 button4.onclick = function() {
     window.open('https://instagram.com', '_blank');
 }
-const button5  = document.querySelector('button[type="pedir"]');
-button5.onclick = function() {
-    window.open('https://instagram.com', '_blank');
-}
